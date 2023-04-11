@@ -1,4 +1,6 @@
 # Public Bathroom Finder
+## A public bathroom finder with location search and sorting filter features
+### Using Swift and OpenStreetMap API
 
 Steps:
 1. Register for an OpenStreetMap API key
